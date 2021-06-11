@@ -1,0 +1,1 @@
+Implement a responsive HTML Email following a template.
